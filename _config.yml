@@ -1,9 +1,4 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
-
-permalink: /:year/:month/:day/:title/
+name: My Blog
+url: http://jpgibb7holman.github.io
 paginate: 10
 highlighter: pygments
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
